@@ -63,7 +63,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/amogusdevlol/amogus.git"
   },
   "keywords": [
     "minari",
@@ -71,5 +71,5 @@
     "facebot",
     "mufu"
   ],
-  "homepage": ""
+  "homepage": "https://github.com/amogusdevlol/amogus"
 }
